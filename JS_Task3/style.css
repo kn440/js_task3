@@ -1,0 +1,42 @@
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .header {
+        margin-top: 20px;
+    }
+    
+    .top_content {
+        margin-top: 45px;
+        margin-bottom: 29px;
+    }
+    
+    .title {
+        padding-top: 20px;
+        padding-bottom: 25px;
+    }
+    
+    .text {
+        padding-top: 40px;
+        padding-bottom: 25px;
+        color: #222222;
+        font-size: 28px;
+        line-height: 36px;
+        font-weight: bold;
+    }
+    
+    .top_buttons {
+        padding-top: 80px;
+        padding-bottom: 25px;
+    }
+    
+    .top_image {
+        padding-top: 40px;
+        padding-bottom: 25px;
+    }
+    
+    .logos {
+        padding-top: 38px;
+        padding-bottom: 47px;
+    }
